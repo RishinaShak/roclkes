@@ -27,6 +27,23 @@
     font-size: 32px;
 }
 
+/*.middle-section{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+.middle-section{
+    color: #ffff;
+    font-weight: 700;
+    font-size: 20px;
+}
+*/
+
 .btn{
     background-color: #FFD600;
     width: 80%;
@@ -35,6 +52,7 @@
     font-size: 25px;
     border: none;
     border-radius: 5px;
+ 
 }
 
 .box{
